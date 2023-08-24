@@ -1,0 +1,14 @@
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\bin\Debug\net7.0\Walker.exe
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\bin\Debug\net7.0\Walker.deps.json
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\bin\Debug\net7.0\Walker.runtimeconfig.json
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\bin\Debug\net7.0\Walker.dll
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\bin\Debug\net7.0\Walker.pdb
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\obj\Debug\net7.0\Walker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\obj\Debug\net7.0\Walker.AssemblyInfoInputs.cache
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\obj\Debug\net7.0\Walker.AssemblyInfo.cs
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\obj\Debug\net7.0\Walker.csproj.CoreCompileInputs.cache
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\obj\Debug\net7.0\Walker.dll
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\obj\Debug\net7.0\refint\Walker.dll
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\obj\Debug\net7.0\Walker.pdb
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\obj\Debug\net7.0\Walker.genruntimeconfig.cache
+C:\Users\nii\Documents\RiderProjects\Foundation\Walker\obj\Debug\net7.0\ref\Walker.dll
